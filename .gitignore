@@ -35,3 +35,6 @@ env/
 # Ignore user-specific files or directories
 *.suo
 *.user
+
+# Ignore collected static files
+staticfiles/
