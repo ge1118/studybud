@@ -30,7 +30,7 @@
         >
           {% csrf_token %} {% for field in form %}
           <div class="form__group">
-            <label for="profile_pic">{{field.label}}</label>
+            <label for="id_{{field.label.lower}}">{{field.label}}</label>
             {{field}}
           </div>
           {% endfor %}
