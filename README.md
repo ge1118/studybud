@@ -17,11 +17,14 @@ Feel free to register an account, explore existing study rooms, or create your o
 - Static and Media Files Served via AWS S3
 
 ## Technologies
-- React.js
-- SCSS
-- Framer-Motion for animations
-- EmailJS for email functionality
-- TagCloud for Hero section effects
+- Python 3.x
+- Django 5.0.1
+- SQLite (Development)
+- AWS S3 (Static and Media Storage)
+- HTML, CSS, JavaScript (Frontend)
+- Git (Version Control)
+- Heroku (Deployment)
+- requirements.txt (Dependency Management)
 
 ## Getting Started
 
