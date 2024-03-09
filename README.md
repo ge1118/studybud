@@ -38,7 +38,6 @@ Feel free to register an account, explore existing study rooms, or create your o
 1. Clone the repository
 ```
 git clone https://github.com/ge1118/studybud.git
-cd studybud
 ```
 
 2. Set up a virtual environment
