@@ -17,7 +17,7 @@ Feel free to register an account, explore existing study rooms, or create your o
 - Static and Media Files Served via AWS S3
 
 ## Technologies
-- Python 3.x
+- Python 3.12.1
 - Django 5.0.1
 - SQLite (Development)
 - AWS S3 (Static and Media Storage)
