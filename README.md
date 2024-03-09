@@ -29,8 +29,8 @@ Feel free to register an account, explore existing study rooms, or create your o
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
-- Django 5.0.1
+- Python
+- Django
 - AWS Account for S3 Bucket Access
 - Virtual Environment (recommended)
 
